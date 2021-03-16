@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259f145819cfff44d98ec4537b04638d, type: 3}
+  m_Name: AttackTarget
+  m_EditorClassIdentifier: 
+  ID: 3
+  type: 1
+  Cooldown: 2
+  aimType: 1
+  manaNeeded: 0
+  value: 32
+  rngRange: 14
+  dealDamage: 1
+  aoe: 
+  prefab: {fileID: -8420451586029684508, guid: bb513353a3c1d0f4181723347a5c8461, type: 3}
+  prefabDestroyTime: 2
+  castProjectile: 1
+  castProjectilePrefab: {fileID: 8929639528595622409, guid: 670ab1d971f326446bb4089c2d774965,
+    type: 3}

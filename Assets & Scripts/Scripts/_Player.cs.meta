@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 51e5c44115e8b32449f5eacbbfd387c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gridObject: {instanceID: 0}
+  - _gridMovement: {instanceID: 0}
+  - floatingTextPrefab: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - mwallPrefab: {fileID: 1735412850352967548, guid: 29a2be0298bc11048864bb9549ec405b,
+      type: 3}
+  - SdPrefab: {instanceID: 0}
+  - teleportPrefabEffect: {instanceID: 0}
+  - wingsPrefabEffect: {instanceID: 0}
+  - healPrefabEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
